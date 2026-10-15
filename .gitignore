@@ -1,0 +1,16 @@
+# Caché de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archivos y carpetas de prueba locales
+debug_aruco.jpg
+Test/
+index.html
+index2.html
+
+# Entornos virtuales y variables de entorno
+venv/
+.venv/
+env/
+.env
